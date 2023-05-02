@@ -6,7 +6,7 @@ public class Person {
     
 
     // method to display information about the person
-    public void displayInfo() { //methods
+    public void displayInfo() {      //methods
         System.out.println("Name: "+ name);
         System.out.println("Age: "+ age);
     }
