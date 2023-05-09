@@ -12,7 +12,7 @@ public class Q2{
 
         int hra;
         int da;
-        int ssf;
+        // int ssf;
 
         hra = (int) (salary*0.2); 
         System.out.print("HRA= "+ hra);
