@@ -20,6 +20,5 @@ public class ClassObject {
 
             // method
             obj.sumMethod();
-
     }
 }
