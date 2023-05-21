@@ -53,6 +53,9 @@ public class Sorting{
             System.out.print(arr[i]+ " ");
         }
     System.out.println();
+
+    for(i=0; i<6; i++){
         
+    } 
     }
 }
