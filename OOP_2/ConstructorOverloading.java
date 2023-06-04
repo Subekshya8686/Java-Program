@@ -21,5 +21,6 @@ class Derived extends Base{
 public class ConstructorOverloading {
     public static void main(String[] args) {
         Derived d =new Derived();
+        
     }
-}
+}  
