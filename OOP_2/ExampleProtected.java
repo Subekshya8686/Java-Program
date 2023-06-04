@@ -9,10 +9,17 @@ class ParentA{
 
 class ChildA extends ParentA{
     public void childMethod(){
-        System.out.println("");
+        parentField = "Child field"; // accessing and modifying the field of parent field
+        System.out.println("Child Method");
+        System.out.println(parentField);
     }
 }
 
 public class ExampleProtected {
+    public static void main(String[] args) {
+        ChildA c1 = new ChildA();
+        c1.childMethod();
+        // c1.parentMethod();
+    }
     
 }
