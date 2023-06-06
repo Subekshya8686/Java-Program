@@ -13,13 +13,17 @@ class ChildA extends ParentA{
         System.out.println("Child Method");
         System.out.println(parentField);
     }
+
+    @Override
+    public void parentMethod(){
+        System.out.println("Child method override parent method.");
+    }
 }
 
 public class ExampleProtected {
     public static void main(String[] args) {
         ChildA c1 = new ChildA();
         c1.childMethod();
-        // c1.parentMethod();
+        c1.parentMethod();
     }
-    
 }
