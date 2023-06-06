@@ -1,4 +1,4 @@
-package OOP_2;
+package Inheritance;
 
 // single level inheritance
 // class Vehicle {

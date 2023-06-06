@@ -1,4 +1,4 @@
-package OOP_2;
+package Inheritance;
 // class A{ // super class
 
 //     protected String name;

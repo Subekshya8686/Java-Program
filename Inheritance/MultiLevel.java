@@ -1,4 +1,4 @@
-package OOP_2;
+package Inheritance;
 // class Hierarchy{
 //     protected int length, breadth, radius;
 //     void Area(){
