@@ -1,4 +1,4 @@
-package OOP_2;
+package Abstraction;
 abstract class Shaper{
     public abstract void calArea();
 }

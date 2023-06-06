@@ -1,4 +1,4 @@
-package OOP_2;
+package Abstraction;
 abstract class Shape{
     public abstract double calculateArea();
     // public abstract double calculateCircumference();

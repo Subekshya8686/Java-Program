@@ -1,4 +1,4 @@
-package OOP_2;
+package Abstraction;
 abstract class Person{   // abstract class is created
     Person(){
         System.out.println("Abstract class of person is created");
